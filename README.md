@@ -15,7 +15,7 @@
 
 - [ToDo List API com Spring Boot](https://github.com/seuuser/todo-list-api-springboot): Aplicação CRUD de tarefas com autenticação via JWT.
   
-    🔗 Swagger disponível para testes: https://18.228.150.173:8080/swagger-ui
+    🔗 Swagger disponível para testes: http://18.228.150.173:8080/swagger-ui/index.html#/
 
     ⚠️ Observação: o link está hospedado em uma instância gratuita na AWS EC2 e pode ficar offline ocasionalmente.
   
