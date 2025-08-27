@@ -2,13 +2,12 @@
 
 🎓 Estudante de Sistemas de Informação – 4º semestre  
 📍 Araraquara/SP  
-💻 Focado em desenvolvimento Back-End com Java, Spring Boot e PostgreSQL  
-🎹 Experiência com ensino de música (piano erudito e teoria musical)  
+💻 Focado em desenvolvimento Back-End com Java, Spring Boot, C#, .NET e Bancos de Dados Relacionais   
 
 ## 🚀 Tecnologias
 
-- Java • Spring Boot • JWT
-- PostgreSQL • SQLite
+- Java • Spring Boot • JWT • C# • .NET
+- PostgreSQL • SQLite • SQL Server
 - Git • GitHub • Maven
 
 ## 📌 Projetos em destaque
