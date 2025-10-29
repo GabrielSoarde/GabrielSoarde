@@ -2,31 +2,20 @@
 
 🎓 Estudante de Sistemas de Informação – 4º semestre  
 📍 Araraquara/SP  
-💻 Focado em desenvolvimento Back-End com Java, Spring Boot, C#, .NET e Bancos de Dados Relacionais   
+💻 Focado em desenvolvimento Back-End com C#, .NET e Bancos de Dados Relacionais   
 
 ## 🚀 Tecnologias
 
-- Java • Spring Boot • JWT • C# • .NET
-- PostgreSQL • SQLite • SQL Server
-- Git • GitHub • Maven
+- C# • .NET • JWT 
+- PostgreSQL • SQLite
+- Git • GitHub
 
 ## 📌 Projetos em destaque
 
-- [ToDo List API com Spring Boot](https://github.com/seuuser/todo-list-api-springboot): Aplicação CRUD de tarefas com autenticação via JWT.
+- [ToDo List API com .NET e Angular](https://organiza-ai-list.netlify.app/): Aplicação CRUD de tarefas com autenticação via JWT.
   
-    🔗 Swagger disponível para testes: http://18.228.150.173:8080/swagger-ui/index.html#/
-
-    ⚠️ Observação: o link está hospedado em uma instância gratuita na AWS EC2 e pode ficar offline ocasionalmente.
+    ⚠️ Observação: o link pode demorar para carregar ocasionalmente.
   
-
-- [Sistema de Cadastro de Alunos](https://github.com/seuuser/sistema-alunos): Aplicação desktop em Java com geração de relatórios
-
-## 🌱 Atualmente aprendendo
-
-- Testes com JUnit
-- Spring Security avançado
-- Boas práticas REST
-
 ## 📬 Contato
 
 [LinkedIn](https://linkedin.com/in/seuperfil) • [Email](mailto:seu@email.com)
