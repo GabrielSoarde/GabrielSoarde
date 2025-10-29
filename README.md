@@ -41,5 +41,5 @@ Um sistema de controle financeiro pessoal para gerenciar transações e obter re
 
 ## 📫 Entre em Contato
 
-- **LinkedIn:** [https://www.linkedin.com/in/gabriel-soarde-722172185/]
-- **Email:** [soarde96@gmail.com]
+- **LinkedIn:** [Seu LinkedIn aqui](https://www.linkedin.com/in/gabriel-soarde-722172185/)
+- **Email:** [Seu email aqui](soarde96@gmail.com)
