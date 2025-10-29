@@ -6,7 +6,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções que facilitam a
 
 Aqui estão alguns dos projetos que desenvolvi:
 
-### 📝 ToDoList-2
+### 📝 [ToDoList-2](https://organiza-ai-list.netlify.app/)
 Um aplicativo de lista de tarefas completo para gerenciar tarefas diárias.
 
 **Principais características:**
