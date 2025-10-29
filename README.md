@@ -17,6 +17,8 @@ Um aplicativo de lista de tarefas completo para gerenciar tarefas diárias.
 
 **Tecnologias:** C#, .NET, ASP.NET Core Web API, Entity Framework Core, Angular, TypeScript, Angular Material.
 
+
+
 ### 💰 ControleFinanca
 Um sistema de controle financeiro pessoal para gerenciar transações e obter relatórios detalhados.
 
