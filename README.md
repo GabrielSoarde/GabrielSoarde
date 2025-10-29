@@ -17,8 +17,6 @@ Um aplicativo de lista de tarefas completo para gerenciar tarefas diárias.
 
 **Tecnologias:** C#, .NET, ASP.NET Core Web API, Entity Framework Core, Angular, TypeScript, Angular Material.
 
-[Ver no GitHub](https://github.com/GabrielSoarde/ToDoList-2)
-
 ### 💰 ControleFinanca
 Um sistema de controle financeiro pessoal para gerenciar transações e obter relatórios detalhados.
 
@@ -29,8 +27,6 @@ Um sistema de controle financeiro pessoal para gerenciar transações e obter re
 - Relatórios financeiros com gráficos.
 
 **Tecnologias:** C#, .NET, ASP.NET Core, Entity Framework Core, PostgreSQL, Angular, Angular Material, Chart.js.
-
-[Ver no GitHub](https://github.com/GabrielSoarde/ControleFinanca)
 
 ## 🛠️ Minhas Habilidades
 
