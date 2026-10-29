@@ -31,20 +31,6 @@ Projeto profissional de e-commerce e pedidos para empresas, com lojas independen
 - **Diltovo:** desenvolvimento de site institucional.
 - **IE-Pack:** desenvolvimento de site institucional.
 
-## 📂 Projetos públicos
-
-### 📝 [ToDoList-2](https://github.com/GabrielSoarde/ToDoList-2)
-
-Aplicação full-stack para gerenciamento de tarefas, com cadastro, edição, filtros e organização por prioridade.
-
-**Tecnologias:** C#, ASP.NET Core, Entity Framework Core, Angular e TypeScript.
-
-### 💰 [ControleFinanca](https://github.com/GabrielSoarde/ControleFinanca)
-
-Sistema de controle financeiro pessoal, com autenticação JWT, gerenciamento e categorização de transações e relatórios com gráficos.
-
-**Tecnologias:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, Angular e Chart.js.
-
 ## 🛠️ Tecnologias e ferramentas
 
 | Área | Tecnologias |
